@@ -7,5 +7,14 @@ export default {
   theme: {
     extend: {},
   },
-  plugins: [],
+  plugins: [
+    require('tailwind-typewriter')({
+      wordsets: {
+        name: {
+          words: ['Efe', 'Alexander', 'Obieroma'], 
+          delay: 1
+        }
+      }
+    })
+  ],
 }
