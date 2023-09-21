@@ -10,9 +10,15 @@ const Footer = () => {
         <br />
         <div className='flex flex-row gap-10 mb-10'>
 
+            <a href="https://github.com/thesefingers">
             <IoLogoGithub className='w-[50px] h-[50px] text-gray-400 hover:scale-150 transition-all ease-in-out hover:text-white cursor-pointer'/>
+            </a>
+            <a href="https://www.linkedin.com/in/efe-obieroma-09a07778">
             <IoLogoLinkedin className='w-[50px] h-[50px] text-gray-400 hover:scale-150 transition-all ease-in-out hover:text-white cursor-pointer'/>
+            </a>
+            <a href="mailto:only1effex@gmail.com">
             <IoMailSharp className='w-[50px] h-[50px] text-gray-400 hover:scale-150 transition-all ease-in-out hover:text-white cursor-pointer'/>
+            </a>
         </div>
         <div>
             <h2 className='mt-5 text-[30px] mb-2'>

@@ -12,7 +12,7 @@ export default {
       wordsets: {
         name: {
           words: ['Efe', 'Alexander', 'Obieroma'], 
-          delay: 1
+          delay: 0.5
         }
       }
     })
