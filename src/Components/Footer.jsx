@@ -3,12 +3,12 @@ import { IoLogoGithub, IoLogoLinkedin, IoMailSharp } from "react-icons/io5";
 
 const Footer = () => {
   return (
-    <div className='bg-black h-[300px] w-screen flex flex-col justify-center items-center text-center'>
-        <h1 className='font-semibold   text-gray-300 hover:text-white tracking-widest'>
+    <div id='#Footer' className='bg-black w-screen flex flex-col justify-center items-center text-center p-2'>
+        <h1 className='font-semibold text-[30px]  text-gray-300 hover:text-white tracking-widest mt-5'>
             Contact
         </h1>
         <br />
-        <div className='flex flex-row gap-20 mb-10'>
+        <div className='flex flex-row gap-10 mb-10'>
 
             <IoLogoGithub className='w-[50px] h-[50px] text-gray-400 hover:scale-150 transition-all ease-in-out hover:text-white cursor-pointer'/>
             <IoLogoLinkedin className='w-[50px] h-[50px] text-gray-400 hover:scale-150 transition-all ease-in-out hover:text-white cursor-pointer'/>
