@@ -1,0 +1,14 @@
+export default {
+  DESIGN: "UI/UX DESIGN",
+  DEVELOPMENT: "DEVELOPMENT",
+  CONSULT: "CONSULT",
+
+  DESIGN_DESC:
+    "Transforming concepts into visually appealing and user-friendly website layouts, focusing on aesthetics and usability to engage and captivate visitors.",
+
+  DEVELOPMENT_DESC:
+    "Crafting interactive and responsive web interfaces using HTML, CSS, and JavaScript, ensuring seamless user experiences across various devices and browsers.",
+
+  CONSULTATION_DESC:
+    "Providing expert guidance and strategic advice on web development projects, offering solutions, best practices, and insights to optimize digital initiatives and achieve specific goals.",
+};
