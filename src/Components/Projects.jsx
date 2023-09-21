@@ -7,7 +7,7 @@ const Projects = () => {
                 Finished Projects 
             </h1>
 
-        <div className='mb-10 flex flex-col md:flex-row lg:flex-row gap-5 p-2'>
+        <div className='mb-10 flex flex-col md:flex-row lg:flex-row gap-5'>
           <div className='flex flex-col gap-2 items-center md:flex-row md:gap-2 lg:flex-row lg:gap-2 mb-5'>
             <img src="ohnHome.png" className='w-[100px] rounded-xl hover:scale-110 transition-all ease-in' />
             <img src="ohn2.png" className='w-[100px] rounded-xl hover:scale-110 transition-all ease-in' />

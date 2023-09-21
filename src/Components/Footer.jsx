@@ -15,7 +15,7 @@ const Footer = () => {
             <IoMailSharp className='w-[50px] h-[50px] text-gray-400 hover:scale-150 transition-all ease-in-out hover:text-white cursor-pointer'/>
         </div>
         <div>
-            <h2 className='mt-5 text-[30px]'>
+            <h2 className='mt-5 text-[30px] mb-2'>
                 &copy;TheseFingers
             </h2>
         </div>
